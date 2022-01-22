@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Eyes are bigger than stomachs.
+
+ 👋
 
 <!--
 **snifferhun/snifferhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
